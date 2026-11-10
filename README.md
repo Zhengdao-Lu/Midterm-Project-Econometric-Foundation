@@ -13,4 +13,4 @@ Four World Bank World Development Indicators series for 2019:
 Open midterm project.ipynb in Google Colab, then Run-all. 
 
 # Headline finding 
-Among 186 economies with complete data, doubling health spending per person is associated with 1.35 more years of life expectancy after accounting for GDP and urbanization (95% confidence interval: 0.12 to 2.58 years). This is an association, not a causal effect.
+Higher per-person health spending is associated with longer life expectancy among the countries studied in 2019. In the OLS model, which includes GDP per person and urban share, doubling spending is associated with an increase of 1.35 additional years, with a 95% confidence interval of 0.12 to 2.58 years. This is an association, not a causal effect.
